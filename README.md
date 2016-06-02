@@ -1,11 +1,11 @@
 # Arduino-Node-Serialport
 Comunicación Bidireccional entre Arduino y Nodejs usando el PuertoSerial (Cable USB)
 
-Reqerimientos
+Requerimientos
 ------------
-Nodejs
-npm
-serialport
++Nodejs
++npm
++serialport
 
 Instalar
 ------------
