@@ -3,9 +3,9 @@ Comunicación Bidireccional entre Arduino y Nodejs usando el PuertoSerial (Cable
 
 #Requerimientos
 ------------
-*Nodejs
-*npm
-*serialport
+* Nodejs
+* npm
+* serialport
 
 #Instalar
 ------------
