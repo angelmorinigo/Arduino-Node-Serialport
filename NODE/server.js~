@@ -1,4 +1,4 @@
-var SerialPort = require("serialport");
+var SerialPort = require("serialport").SerialPort;
 var serialport = new SerialPort("/dev/ttyACM0");
 
 serialport.on('open', function(){
